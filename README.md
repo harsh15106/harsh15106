@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-* 🎓 B.Tech @ VIT Bhopal (CGPA: 8.19)
+* 🎓 B.Tech @ VIT Bhopal
 * 🧠 Passionate about **AI/ML, Cloud & Scalable Systems**
 * 🚀 Building real-world impactful applications
 * ⚡ Strong focus on problem-solving & system design
