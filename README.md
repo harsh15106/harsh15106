@@ -4,7 +4,7 @@
 <h3 align="center">🚀 AI/ML Developer | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Web+%26+Developer;Building+Real-World+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Web+Developer;Building+Real-World+Projects;Always+Learning+🚀" />
 </p>
 
 ---
