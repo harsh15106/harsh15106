@@ -80,7 +80,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh15106&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh15106&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-4364b5247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:harsh06official@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail" />
