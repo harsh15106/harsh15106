@@ -1,10 +1,10 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">🚀 AI/ML Developer | Cloud Computing Enthusiast</h3>
+<h3 align="center">🚀 AI/ML Developer | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Cloud+%26+Automation+Enthusiast;Building+Real-World+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Web+%26+Developer;Building+Real-World+Projects;Always+Learning+🚀" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 🌟 About Me
 
 * 🎓 B.Tech @ VIT Bhopal
-* 🧠 Passionate about **AI/ML, Cloud & Scalable Systems**
+* 🧠 Passionate about **AI/ML, Application & Scalable Systems**
 * 🚀 Building real-world impactful applications
 * ⚡ Strong focus on problem-solving & system design
 
