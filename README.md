@@ -1,9 +1,3 @@
-<!-- BANNER -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh15106/harsh15106/main/assets/banner.png" />
-</p>
-
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
@@ -73,14 +67,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh15106&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh15106&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh15106&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
