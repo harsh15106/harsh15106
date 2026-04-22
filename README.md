@@ -75,11 +75,6 @@
 * 🤖 AI-powered healthcare & SaaS systems
 * ☁️ Cloud-native architectures
 * 🧠 LLM-based applications
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=15106&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ## 💡 Fun Fact
